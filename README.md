@@ -15,4 +15,4 @@ Update Fall 2019:  Dr. Matthew Bernard indicated that the **real need is to prov
 Update Spring 2021: Reviewing design and confirming requirements.
 
 ---
-Users of this repository can either choose to modify the design document directly, or simply create comments, or "issues" to enter your comments.
+Discussion of this design have been moved to the [SNAP Issues repository](https://github.com/NRC-Research/SNAP-issues/discussions/59).  Please feel free to add your views or ideas to that [repository](https://github.com/NRC-Research/SNAP-issues/discussions/59).
